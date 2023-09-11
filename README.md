@@ -11,4 +11,4 @@ Once you have cloned the repo locally, make sure you have NodeJS installed.
 
 The expected output should look like this.
 
-![blockchain expected output](https://github.com/DanRyder98/UrbanChain_blockchain_example/bloackchain_expected_output.jpg)
+![blockchain expected output](https://github.com/DanRyder98/UrbanChain_blockchain_example/blob/main/blockchain_expected_output.jpg)

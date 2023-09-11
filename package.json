@@ -1,0 +1,18 @@
+{
+    "name": "blockchain-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "tsc -w",
+        "start": "tsc && node ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.6.0",
+        "typescript": "^5.2.2"
+    }
+}
